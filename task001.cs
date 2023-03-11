@@ -19,7 +19,7 @@ else
 {
     if (number1 < number2)
     {
-        Console.WriteLine($"Number 2 is max = {number2}. Number 1 is min = {number1}.git");
+        Console.WriteLine($"Number 2 is max = {number2}. Number 1 is min = {number1}.");
     }
         if (number1 == number2)
         {
